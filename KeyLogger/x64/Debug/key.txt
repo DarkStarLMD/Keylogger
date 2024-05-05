@@ -1,0 +1,16 @@
+
+Create by : Minh Dat
+
+Time : Mon May  6 05:10:51 2024
+===============================================
+Kich thuoc man hinh : 
+Chieu dai : 1366 pixels
+Chieu rong : 768 pixels
+===============================================
+
+[LEFT SHIFT]
+[L][M][D]
+[SPACE]
+[D][A][R][K]
+[SPACE]
+[S][T][A][R]
